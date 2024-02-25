@@ -31,7 +31,7 @@ body {
 
 /* 290px margin here for sidebar hardcode */
 .main-content {
-    margin-left: 290px;
+    margin-left: 16%;
     overflow-y: auto;
     height: 92vh;
 }
@@ -208,7 +208,7 @@ nav.navbar {
         }
 
 nav.navbar {
-    margin-left: 290px;
+    margin-left: 16%;
 }
 
 /*Profile Pic*/
@@ -261,6 +261,7 @@ img.profile-pic {
     border-right: 1px dashed rgba(75,82,85,0.24);
     padding: 10px 20px;
     overflow: hidden;
+
 }
 
     #sidebar .e-menu-wrapper {
@@ -320,6 +321,8 @@ img.profile-pic {
 #sidebar.e-close #sidebar-toggler:before {
     content: '\f101'
 }
+
+
 
 /*Widget*/
 .widget {
