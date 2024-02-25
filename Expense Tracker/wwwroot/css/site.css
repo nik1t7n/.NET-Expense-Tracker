@@ -137,6 +137,9 @@ body {
 
 .app-logo {
     padding: 10px 10px;
+    width: 55px;
+    height: 55px;
+    border-radius: 50%;
 }
 
 /*Menu*/
